@@ -1,0 +1,12 @@
+diary on
+SimplexKleeMinty
+Para m= 2 se tarda 0.0003 cpu time y termina en    3 interaciones
+Para m= 3 se tarda 0.0004 cpu time y termina en    7 interaciones
+Para m= 4 se tarda 0.0006 cpu time y termina en   15 interaciones
+Para m= 5 se tarda 0.0016 cpu time y termina en   31 interaciones
+Para m= 6 se tarda 0.0024 cpu time y termina en   63 interaciones
+Para m= 7 se tarda 0.0034 cpu time y termina en  127 interaciones
+Para m= 8 se tarda 0.0068 cpu time y termina en  255 interaciones
+Para m= 9 se tarda 0.0112 cpu time y termina en  511 interaciones
+Para m= 10 se tarda 0.0221 cpu time y termina en 1023 interaciones
+diary off

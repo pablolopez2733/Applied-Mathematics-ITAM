@@ -1,0 +1,43 @@
+diary on 
+% Prueba no acotado
+A=[1,-1;-1,1]
+
+A =
+
+     1    -1
+    -1     1
+
+b=[1,2]
+
+b =
+
+     1     2
+
+c=[-1,0]
+
+c =
+
+    -1     0
+
+[x0,z0,ban,iter]= mSimplexFaseII(A, b, c)
+
+x0 =
+
+   NaN
+
+
+z0 =
+
+   NaN
+
+
+ban =
+
+     1
+
+
+iter =
+
+     2
+
+diary off
